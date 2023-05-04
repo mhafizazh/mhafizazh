@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+I am a current student at San Francisco State University majoring in Computer Science. With experience in programming languages such as C#, Java, Python, and familiarity with Unity game engine, I am passionate about game development and machine learning. I am excited to continue learning and exploring these fields, and am eager to apply my skills to future projects and opportunities.
 </br></br>
 <div align="center">
   
@@ -8,4 +8,4 @@
 </div>
 
 
-I am a current student at San Francisco State University majoring in Computer Science. With experience in programming languages such as C#, Java, Python, and familiarity with Unity game engine, I am passionate about game development and machine learning. I am excited to continue learning and exploring these fields, and am eager to apply my skills to future projects and opportunities.
+
