@@ -7,6 +7,5 @@
 
 </div>
 
-**mhafizazh/mhafizazh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 I am a current student at San Francisco State University majoring in Computer Science. With experience in programming languages such as C#, Java, Python, and familiarity with Unity game engine, I am passionate about game development and machine learning. I am excited to continue learning and exploring these fields, and am eager to apply my skills to future projects and opportunities.
