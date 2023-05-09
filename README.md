@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-<h1 align="left"><img src="http://pixelartmaker-data-78746291193.nyc3.digitaloceanspaces.com/image/34b5d47a8bb25ae.png" width="30px" height="30px" /> Welcome Traveler <img src="http://pixelartmaker-data-78746291193.nyc3.digitaloceanspaces.com/image/34b5d47a8bb25ae.png" width="30px" height="30px" /></h1>
-<h3 align="left">I'm Adele, a Frontend Engineer</h3>
+<h1 align="left"><img src="http://pixelartmaker-data-78746291193.nyc3.digitaloceanspaces.com/image/34b5d47a8bb25ae.png" width="30px" height="30px" /> Hi there 👋 <img src="http://pixelartmaker-data-78746291193.nyc3.digitaloceanspaces.com/image/34b5d47a8bb25ae.png" width="30px" height="30px" /></h1>
+<h3 align="left">I'm Hafiz</h3>
 
 I am a current student at San Francisco State University majoring in Computer Science. With experience in programming languages such as C#, Java, Python, and familiarity with Unity game engine, I am passionate about game development and machine learning. I am excited to continue learning and exploring these fields, and am eager to apply my skills to future projects and opportunities.
 
@@ -15,7 +15,7 @@ I am a current student at San Francisco State University majoring in Computer Sc
         alt="javascript" width="20" height="20"/> 
 </a> 
 
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
+<a href="https://www.java.com/en//" target="_blank" rel="noreferrer"> 
     <img src="https://cdn.simpleicons.org/react/"
         alt="react" width="20" height="20"/>
 </a> 
