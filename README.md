@@ -7,5 +7,17 @@ I am a current student at San Francisco State University majoring in Computer Sc
 
 </div>
 
+<li>
+    <h2>
+        <a href='https://twitter.com/${follower_screen_name}'>
+            <span class='name'>${follower_name}</span><span class='screen-name'>@${follower_screen_name}</span>
+        </a>
+    </h2>
+
+    <p>
+        ${follower_description}
+    </p>
+</li>
+
 
 
