@@ -19,6 +19,7 @@
 - :technologist: **Currently working on** `Rehabilitation Robotics Lab`
 - :email: Feel free to **reach me out** [![Send me Email](https://img.shields.io/static/v1?label=email&amp;message=mhafizazh&amp;color=EA4335&amp;style=flat-square)](mhafiz.azh@gmail.com)
 <!--- stats (start) -->
+## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 30px>  </picture> Github Stats
 <table align="left">
 <tr border="none">
 <td width="50%" align="center">
@@ -84,7 +85,7 @@
 
 <br>
 
-## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 30px>  </picture> Github Stats
+
 
 <!--- stats & Trophy (start) -->
 
