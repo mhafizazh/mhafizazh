@@ -19,6 +19,7 @@
 - :technologist: **Currently working on** `Rehabilitation Robotics Lab`
 - :email: Feel free to **reach me out** [![Send me Email](https://img.shields.io/static/v1?label=email&amp;message=mhafizazh&amp;color=EA4335&amp;style=flat-square)](mhafiz.azh@gmail.com)
 <!--- stats (start) -->
+<!---
 ## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 30px>  </picture> Github Stats
 <table align="left">
 <tr border="none">
@@ -36,9 +37,8 @@
   </td>
 </tr>
 </table>
-<!--- stats (end) -->
+
 </p>        
-<!--- stats (end) -->
 <a href="https://github.com/mhafizazh/Pos-Iris">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mhafizazh&repo=Pos-Iris&theme=great-gatsby" />
 </a>
@@ -47,6 +47,19 @@
 </a>
 <br>
 <br>
+-->
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mhafizazh&theme=github_dark)
+
+![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mhafizazh&theme=github_dark)
+![Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mhafizazh&theme=github_dark)
+
+
+
+<!---
+## 📆 Contribution Graph
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mhafizazh&theme=github-compact)
+
+-->
 
 ## 🛠️ My Skills
 
