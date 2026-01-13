@@ -48,49 +48,39 @@
 <br>
 <br>
 -->
-![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mhafizazh&theme=github_dark)
+## 📐 Activity Graph
+<!-- Copy-paste in your Readme.md file -->
 
-![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mhafizazh&theme=github_dark)
-![Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mhafizazh&theme=github_dark)
+<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=80326383" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=80326383&image_size=auto&color_scheme=dark" width="771" height="auto">
+    <img alt="Dashboard stats of @mhafizazh" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=80326383&image_size=auto&color_scheme=light" width="771" height="auto">
+  </picture>
+</a>
 
+<!-- Copy-paste in your Readme.md file -->
 
+<!-- <a href="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution?user_id=77712914&period=all_times" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution/thumbnail.png?user_id=77712914&period=all_times&image_size=auto&color_scheme=dark" width="721" height="auto">
+    <img alt="Contribution Time Distribution of @PredictiveManish" src="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution/thumbnail.png?user_id=77712914&period=all_times&image_size=auto&color_scheme=light" width="721" height="auto">
+  </picture>
+</a> -->
 
-<!---
-## 📆 Contribution Graph
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mhafizazh&theme=github-compact)
+<!-- Made with [OSS Insight](https://ossinsight.io/) -->
 
+<!-- Copy-paste in your Readme.md file -->
+<!--
+<a href="https://next.ossinsight.io/widgets/official/compose-currently-working-on?user_id=80326383&activity_type=all" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-currently-working-on/thumbnail.png?user_id=80326383&activity_type=all&image_size=auto&color_scheme=dark" width="497.5" height="auto">
+    <img alt="@mhafizazh's Recent Work - Last 28 days" src="https://next.ossinsight.io/widgets/official/compose-currently-working-on/thumbnail.png?user_id=80326383&activity_type=all&image_size=auto&color_scheme=light" width="497.5" height="auto">
+  </picture>
+</a>
 -->
+<!-- Made with [OSS Insight](https://ossinsight.io/) -->
 
-## 🛠️ My Skills
-
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 20px>  </picture> Programming languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white)
-![Shell](https://img.shields.io/badge/Shell-FFD500?style=flat-square&logo=Shell&logoColor=white)
-
-
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/CP_PS.gif?raw=true" width = 20px>  </picture> Data Analysis
-
-![ApacheHadoop](https://img.shields.io/badge/ApacheHadoop-66CCFF?style=flat-square&logo=ApacheHadoop&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Numpy](https://img.shields.io/badge/Numpy-013243?style=flat-square&logo=Numpy&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=flat-square&logo=Scikit-learn&logoColor=white)
-
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 20px>  </picture> Software & Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=LaTeX&logoColor=white)
-![JSON](https://img.shields.io/badge/JSON-000000?style=flat-square&logo=JSON&logoColor=white)
-
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 20px>  </picture> IDEs
-
-![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=Jupyter&logoColor=white)
-
+![Profile Views](https://komarev.com/ghpvc/?username=mhafizazh&color=orange&style=plastic&label=PROFILE+VIEWS)
 ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width = 20px>  </picture> Operating Systems
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=Windows&logoColor=white)
